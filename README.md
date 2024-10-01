@@ -21,7 +21,7 @@
 </div>
 
 <!--Intro start-->
-- 👋 Hi, I’m **Giska Izza** 👀 
+-  👀 
 <!--Intro end-->
 
 ---
