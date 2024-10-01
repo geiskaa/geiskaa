@@ -9,7 +9,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm  Evandaru</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm  Giska Izza</h1></summary>
   </ul>
 </div>
 
@@ -21,13 +21,7 @@
 </div>
 
 <!--Intro start-->
-- 👋 Hi, I’m **Fauzan Hasyim**, a MERN Fullstack Developer enthusiast.
-- 👀 Interested in **web development** and **AI prompt engineering**.
-- 🌱 Currently learning **MERN Stack** and diving into **AI**.
-- 💼 Open to collaborating on **website** .
-- 📫 Reach me via **email** at fauzanhasyimm@gmail.com .
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love **sleep** and **logic puzzles**.
+- 👋 Hi, I’m **Giska Izza** 👀 
 <!--Intro end-->
 
 ---
